@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Varshini Pallerla</h1>
 <h3 align="center">I'm a 21-year-old software engineer and computer science enthusiast, passionate about learning and exploring new skills!</h3>
 
+🔭 Student at Thapar Institute of Engineering and Technology
+🤝 Former Intern at International Institute of Information and Technology and Ernst & Young
+💡 Fun Fact: My favorite debugging tool is… sleep 😴
+☕ I measure caffeine in lines of code 
+📫 Reach me through 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/vpallerla_be22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vpallerla_be22" height="30" width="40" /></a>
