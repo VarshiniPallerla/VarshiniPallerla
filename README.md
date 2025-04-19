@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 
 🔭 Student at Thapar Institute of Engineering and Technology
 
-🤝 Former Intern at International Institute of Information and Technology and Ernst & Young
+🤝 Former Intern at IIIT,Hyd and Ernst & Young
 
 💡 Fun Fact: My favorite debugging tool is… sleep 😴
 
 ☕ I measure caffeine in lines of code 
 
-📫 Reach me through 
+📫 Reach me through: [LinkedIn]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/varshini-pallerla-311a44253/))
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
