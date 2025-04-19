@@ -20,10 +20,10 @@ Worked on geospatial analysis and prediction of forest fire data in the Western 
 
 
 🏢 Ernst & Young (EY)
+
 Software Developer Intern — Noida, Uttar Pradesh
 
-Developed RESTful APIs for the UP FPO Shakti project using Spring Boot, contributing to scalable and secure backend services.
-Focused on efficient data management and system performance optimization within a production environment.
+Developed RESTful APIs for the UP FPO Shakti project using Spring Boot, contributing to scalable and secure backend services. Focused on efficient data management and system performance optimization within a production environment.
 
 
 <h2 align="left">🔧 Skills</h2>
