@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ☕ I measure caffeine in lines of code 
 
-📫 Reach me through: [LinkedIn]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/varshini-pallerla-311a44253/))
+📫 Reach me through: [LinkedIn](https://www.linkedin.com/in/varshini-pallerla-311a44253/)
 
 
 <h3 align="left">Connect with me:</h3>
