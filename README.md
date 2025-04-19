@@ -13,12 +13,14 @@
 
 <h2 align="left">💼 Experience</h2>
 🏢 International Institute of Information Technology (IIIT Hyderabad)
+
 Summer Research Intern — Hyderabad, India
 
 Worked on geospatial analysis and prediction of forest fire data in the Western Himalayas using Python and ArcGIS.
 
 
 🏢 Ernst & Young (EY)
+
 Software Developer Intern — Noida, Uttar Pradesh
 
 Developed RESTful APIs for the UP FPO Shakti project using Spring Boot, contributing to scalable and secure backend services.
