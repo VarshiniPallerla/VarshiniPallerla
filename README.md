@@ -1,20 +1,3 @@
-<!--
-**VarshiniPallerla/VarshiniPallerla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <h1 align="center">Hi 👋, I'm Varshini Pallerla</h1>
 <h3 align="center">I'm a 21-year-old software engineer and computer science enthusiast, passionate about learning and exploring new skills!</h3>
 
@@ -27,6 +10,19 @@ Here are some ideas to get you started:
 ☕ I measure caffeine in lines of code 
 
 📫 Reach me through: [LinkedIn](https://www.linkedin.com/in/varshini-pallerla-311a44253/)
+
+<h2 align="left">💼 Experience</h2>
+🏢 International Institute of Information Technology (IIIT Hyderabad)
+Summer Research Intern — Hyderabad, India
+
+Worked on geospatial analysis and prediction of forest fire data in the Western Himalayas using Python and ArcGIS.
+
+
+🏢 Ernst & Young (EY)
+Software Developer Intern — Noida, Uttar Pradesh
+
+Developed RESTful APIs for the UP FPO Shakti project using Spring Boot, contributing to scalable and secure backend services.
+Focused on efficient data management and system performance optimization within a production environment.
 
 
 <h2 align="left">🔧 Skills</h2>
